@@ -9,9 +9,9 @@ Laboratorio 4 Sistemas Operativos 2025
 
 ## Compilación
 
-gcc queue.c -o queue -pthread
-gcc producer_consumer.c -o producer_consumer -pthread
-gcc dining_philosophers.c -o dining_philosophers -pthread
+- gcc queue.c -o queue -pthread
+- gcc producer_consumer.c -o producer_consumer -pthread
+- gcc dining_philosophers.c -o dining_philosophers -pthread
 
 
 ## Ejecución
