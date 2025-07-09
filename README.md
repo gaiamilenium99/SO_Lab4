@@ -16,9 +16,9 @@ Laboratorio 4 Sistemas Operativos 2025
 
 ## Ejecución
 
-./queue
-./producer_consumer
-./dining_philosophers
+- ./queue
+- ./producer_consumer
+- ./dining_philosophers
 
 
 ## Resultados esperados
